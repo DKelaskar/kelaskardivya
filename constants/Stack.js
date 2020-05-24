@@ -10,13 +10,13 @@ export const PRESENT = [
 ]
 
 export const SKILLS = [
-  'learns',
   'codes',
-  'makes mistakes',
-  'naps',
   'creates bugs',
-  'fixes bugs',
+  'makes mistakes',
   'tries her best',
+  'fixes bugs',
+  'learns',
+  'naps',
   'tweets',
   'lives',
 ]
