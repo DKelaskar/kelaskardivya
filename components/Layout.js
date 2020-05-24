@@ -11,11 +11,7 @@ const menu = [
   {
     path: '/about',
     name: 'about',
-  },
-  {
-    path: '/uses',
-    name: 'uses',
-  },
+  }
 ]
 
 function Layout({ children, isHomepage, secondaryPage, noHead = false }) {
@@ -45,7 +41,7 @@ function Layout({ children, isHomepage, secondaryPage, noHead = false }) {
   }, [theme])
 
   const containerProps = {
-    ...isHomepage && { md: 12 },
+  ...isHomepage && { md: 12 },
     ...!isHomepage && { md: 8, mdOffset: 2 },
   }
 
@@ -80,7 +76,7 @@ function Layout({ children, isHomepage, secondaryPage, noHead = false }) {
           <Col {...containerProps}>
             {!secondaryPage && (
               <h1 className={`blog-title`} style={isHomepage && { textAlign: 'left' }}>
-                Telmo, code <span className="amp">&</span> design
+                Divya, learns <span className="amp">&</span> codes
               </h1>
             )}
 
@@ -90,7 +86,6 @@ function Layout({ children, isHomepage, secondaryPage, noHead = false }) {
       </Grid>
 
       <footer>
-        &copy; {new Date().getFullYear()}
       </footer>
     </>
   )

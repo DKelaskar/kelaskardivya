@@ -29,7 +29,7 @@ function Writing({ content, data }) {
           <h1 className="writing-title-h1">{title}</h1>
 
           <div className="author">
-            <a href={`https://twitter.com/${author.twitter}`} target="_blank" rel="noopener noreferrer nofollow">
+            <a href={`#`} target="_parent" rel="noopener noreferrer nofollow">
               <img src={avatar} />
               {author.name}
             </a>
@@ -51,12 +51,6 @@ function Writing({ content, data }) {
               }}
             />
 
-            <div className="twitter-follow">
-              If you liked this post I'm sure you'll love
-              what I usually share on {' '}
-              <a href="https://twitter.com/telmo" rel="noopener noreferrer nofollow">Twitter</a>,
-              I share a lot of coding tips there ✌️
-            </div>
           </div>
         </div>
       </Layout>
@@ -73,3 +67,4 @@ Writing.getInitialProps = async (context) => {
 }
 
 export default Writing
+
