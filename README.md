@@ -1,16 +1,9 @@
-# Repo for Telmo's Website
+# Repo for my blog
 
-This repo contains the code that is being used [here](https://telmo.im)
-
----
-
-## Stack
-
-- Now
-- NextJS
-- Markdown
+This repo contains the code that is being used [here](https://kelaskardivya.now.sh)
 
 ---
+
 
 ## Want to use this project?
 
@@ -23,5 +16,3 @@ npm install
 ```
 npm run dev
 ```
-
-Just make sure to remove any references of my name and use yours 🙂
