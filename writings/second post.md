@@ -1,9 +1,9 @@
 ---
 title: "Create a turtles' race with Python!"
-date: "2020-05-16"
+date: "2020-05-12"
 og:
   description: "The title says it."
-  image: "https://drive.google.com/open?id=1zQCrHPi8v6iNcQhmTbWuAFhMbGVT-RDU"
+  image: ""
 author:
   twitter: "theavidcoder"
   name: "Divya Kelaskar"
@@ -79,3 +79,5 @@ while True:
         break
 ```
 ## That's it! Wasn't that simple ? 
+
+# Thanks for reading !

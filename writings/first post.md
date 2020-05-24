@@ -3,7 +3,7 @@ title: "My First post"
 date: "2020-05-05"
 og:
   description: "The title says it."
-  image: "https://drive.google.com/open?id=1R2OS0im62-hVm6klSGjDM6BYvKNXciAG"
+  image: ""
 author:
   twitter: "theavidcoder"
   name: "Divya Kelaskar"
@@ -91,3 +91,5 @@ while user_choice > 3 or user_choice < 1:
     if ans == 'n' or ans == 'N': 
         break
 ```
+
+# Thanks for reading !

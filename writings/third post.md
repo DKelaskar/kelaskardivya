@@ -1,9 +1,9 @@
 ---
 title: "Guess the number with Python !"
-date: "2020-05-24"
+date: "2020-05-17"
 og:
   description: "The title says it."
-  image: "https://drive.google.com/open?id=13xm-_OzFYx2IpvCjvOY_8KFbTZ504Xkr"
+  image: ""
 author:
   twitter: "theavidcoder"
   name: "Divya Kelaskar"
@@ -117,3 +117,4 @@ for turn in range(100):
 ```
 ## That's it ! The race is ready to begin 🐢🐢🐢 
 
+# Thanks for reading !
