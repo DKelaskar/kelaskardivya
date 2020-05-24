@@ -1,7 +1,5 @@
 # Repo for my blog
 
-This repo contains the code that is being used [here](https://kelaskardivya.now.sh)
-
 ---
 
 
