@@ -16,7 +16,3 @@ npm install
 ```
 npm run dev
 ```
-
-Just make sure to remove any references of my name and use yours 🙂
-
-
