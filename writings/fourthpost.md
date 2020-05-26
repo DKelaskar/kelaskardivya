@@ -1,6 +1,6 @@
 ---
 title: "Create a turtles' race with Python!"
-date: "2020-05-12"
+date: "2020-05-24"
 og:
   description: "The title says it."
   image: ""
