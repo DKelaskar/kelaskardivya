@@ -69,7 +69,7 @@ function About() {
 
             <hr />
 
-            <h3>What I've worked with : </h3>
+            <h3>My Tech Stack : </h3>
 
             <Row style={{ marginTop: 30 }}>
               {PRESENT.map(s => (
