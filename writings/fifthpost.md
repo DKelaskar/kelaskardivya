@@ -38,7 +38,9 @@ We all know how Tony Stark built himself an Ironman Suit and became a superhero.
 
 # The Experience!
 
-When we share a common experience, it boosts our sense of belonging, and this in turn makes us feel life is more worthwhile. Also, when we share a positive experience, we enjoy it more than we would if we experience it on our own - even when we share it with people we've never met. Together people learn and make sense out of those experiences. At the end, it's about the journey !
+When we share a common experience, it boosts our sense of belonging, and this in turn makes us feel life is more worthwhile. Also, when we share a positive experience, we enjoy it more than we would if we experience it on our own - even when we share it with people we've never met. Together people learn and make sense out of those experiences. 
+
+At the end, it's about the journey !
 
 ![Alt Text](https://res.cloudinary.com/practicaldev/image/fetch/s--e_RhqCa0--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://media1.tenor.com/images/9c7e443f9ce8a04ff473b8740714983d/tenor.gif%3Fitemid%3D9515508)
 
