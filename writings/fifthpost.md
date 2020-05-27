@@ -20,7 +20,7 @@ Let's begin!
 
 # Problem Solving Ability
 
-Problem-solving isn’t just about addressing negative situations – it’s about exploiting opportunities. Problem-solving skills help people understand their environment.
+Problem-solving isn’t just about addressing negative situations – it’s about exploiting opportunities. Problem-solving skills help people understand their environment. Also, the satisfaction of solving a problem is a feeling that can’t be expressed through words.
 
 ![Alt Text](https://media.giphy.com/media/5z0cCCGooBQUtejM4v/giphy.gif)
 
