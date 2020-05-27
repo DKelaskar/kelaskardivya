@@ -1,5 +1,5 @@
 ---
-title: "Why coding ?"
+title: "Why CODING ?"
 date: "2020-05-27"
 og:
   description: "The title says it."
