@@ -13,8 +13,7 @@ function MyApp({ Component, pageProps }) {
         <meta property="og:title" content={title || `Divya, learns & codes`} />
         <meta property="og:site_name" content="Divya, learns & codes" />
         <meta property="og:description" content={og ? og.description : `Writing about the tips, journey that I come across and some more.`} />
-        <meta property="og:image" content={og ? og.image : `https://kelaskardivya.now.sh/og/default.png`} />
-        <meta name="twitter:card" content="summary_large_image" />
+        <meta name="twitter:card" content="summary" />
         <meta name="twitter:site" content="@theavidcoder" />
 
         <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
