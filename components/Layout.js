@@ -86,6 +86,7 @@ function Layout({ children, isHomepage, secondaryPage, noHead = false }) {
       </Grid>
 
       <footer>
+        Divya Kelaskar 💻 2020
       </footer>
     </>
   )

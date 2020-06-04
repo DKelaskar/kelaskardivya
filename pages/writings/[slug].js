@@ -51,6 +51,13 @@ function Writing({ content, data }) {
               }}
             />
 
+            <div className="twitter-follow">
+              If you liked this post I'm sure you'll love
+              what I usually share on {' '}
+              <a href="https://www.instagram.com/coding.bits/" rel="noopener noreferrer nofollow" target="_blank">Instagram</a>,
+              I share coding tips there ✌️
+            </div>
+
           </div>
         </div>
       </Layout>
@@ -68,3 +75,4 @@ Writing.getInitialProps = async (context) => {
 
 export default Writing
 
+  
