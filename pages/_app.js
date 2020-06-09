@@ -13,21 +13,12 @@ function MyApp({ Component, pageProps }) {
         <meta property="og:title" content={title || `Divya, learns & codes`} />
         <meta property="og:site_name" content="Divya, learns & codes" />
         <meta property="og:description" content={og ? og.description : `Writing about the tips, journey that I come across and some more.`} />
-        <meta property="og:image" content={og ? og.image : `public\og\default.png`} />
+        <meta property="og:image" content={og ? og.image : `https://i.ibb.co/pnfzv5S/default.png`} />
         <meta name="twitter:card" content="summary_large_image" />
         <meta name="twitter:site" content="@theavidcoder" />
+        <meta name="twitter:creator" content="@theavidcoder" />
 
         <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-        {/* Global site tag (gtag.js) - Google Analytics  */}
-        <script async src="https://www.googletagmanager.com/gtag/js?id=UA-168668028-1"></script>
-        <script>
-          window.dataLayer = window.dataLayer || [];
-          function gtag(){dataLayer.push(arguments)}
-          gtag('js', new Date());
-
-          gtag('config', 'UA-168668028-1');
-        </script>
 
         <title>{title || `Divya, learns & codes`}</title>
       </Head>
