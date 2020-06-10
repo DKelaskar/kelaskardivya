@@ -17,6 +17,5 @@ export const SKILLS = [
   'fixes bugs',
   'learns',
   'naps',
-  'tweets',
   'lives',
 ]
