@@ -1,5 +1,5 @@
 ---
-title: "Programming Principles worth following"
+title: "Programming principles worth following"
 date: "2020-06-10"
 og:
   description: "Today, we are going to have a look into some programming principles which come handy while coding."
@@ -13,9 +13,9 @@ So, today we are going to have a look into some well-known programming principle
 # 1. KISS : Keep It Simple Stupid
 The following quote has rightly explained it:
 
-<blockquote>Any fool can write code that a computer can understand. Good programmers focus on writing the program in a humans understand.
+<blockquote>Any fool can write code that a computer can understand. Good programmers write code that humans understand.
 
-<cite>Martin Fowler</cite>
+<cite>- Martin Fowler</cite>
 </blockquote>
 
 
@@ -31,7 +31,7 @@ Here comes our third point into play. We must aim for the best readability of ou
 
 <blockquote>Readability matters.
 
-<cite>Tim Peters, (The Zen of Python)</cite>
+<cite>- Tim Peters, (The Zen of Python)</cite>
 </blockquote>
 
 
