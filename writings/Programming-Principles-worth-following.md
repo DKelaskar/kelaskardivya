@@ -3,7 +3,7 @@ title: "Programming principles worth following"
 date: "2020-06-10"
 og:
   description: "Today, we are going to have a look into some programming principles which come handy while coding."
-  image: "https://i.ibb.co/3N3SWPR/thirdpost.jpg"
+  image: "https://i.ibb.co/kXTzcbV/thirdpost.jpg"
 author:
   twitter: "theavidcoder"
   name: "Divya Kelaskar"

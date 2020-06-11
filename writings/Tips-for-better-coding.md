@@ -2,8 +2,8 @@
 title: "Tips for better coding !"
 date: "2020-05-12"
 og:
-  description: "The title says it."
-  image: ""
+  description: "Here are the lessons I learnt after attempting the challenge."
+  image: "https://i.ibb.co/yVQ7W0j/better-coding.jpg"
 author:
   twitter: "theavidcoder"
   name: "Divya Kelaskar"

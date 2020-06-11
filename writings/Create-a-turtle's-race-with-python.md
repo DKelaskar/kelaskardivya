@@ -2,8 +2,8 @@
 title: "Create a turtles' race with Python!"
 date: "2020-05-24"
 og:
-  description: "The title says it."
-  image: ""
+  description: "Today I will be sharing tips for making a game with the Python programming language."
+  image: "https://i.ibb.co/Hh4KY74/turtle-race.jpg"
 author:
   twitter: "theavidcoder"
   name: "Divya Kelaskar"

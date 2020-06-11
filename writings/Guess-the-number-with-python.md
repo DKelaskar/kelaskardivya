@@ -2,8 +2,8 @@
 title: "Guess the number with Python !"
 date: "2020-05-17"
 og:
-  description: "The title says it."
-  image: ""
+  description: "Today we'll be making turtles' race by the Python language.."
+  image: "https://i.ibb.co/bmGy2XY/guess-number.jpg"
 author:
   twitter: "theavidcoder"
   name: "Divya Kelaskar"

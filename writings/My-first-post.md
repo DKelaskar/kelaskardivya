@@ -3,7 +3,7 @@ title: "My First post"
 date: "2020-05-05"
 og:
   description: "The title says it."
-  image: ""
+  image: "https://i.ibb.co/5cgnwDt/rock-paper.jpg"
 author:
   twitter: "theavidcoder"
   name: "Divya Kelaskar"

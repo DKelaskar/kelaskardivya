@@ -2,8 +2,8 @@
 title: "Why CODING ?"
 date: "2020-05-27"
 og:
-  description: "The title says it."
-  image: ""
+  description: "I decided to write up to stay focused."
+  image: "https://i.ibb.co/pRnqyk5/WHY-coding.jpg"
 author:
   twitter: "theavidcoder"
   name: "Divya Kelaskar"
@@ -12,7 +12,7 @@ Sometimes we become less productive. And lose sight of the big picture and wonde
 
 Sometimes we might become too stressed or maybe we could have mixed up our priorities. And then we go on browsing different things to get our mood back.
 
-Everytime I tried different things that gets me back on track. And one of the thing I do is recollect and ask myself why I started? Sometimes I couldn't even do that, I'm too lazy,lol... But, I decided to write up to  stay focused.
+Everytime I tried different things that gets me back on track. And one of the thing I do is recollect and ask myself why I started? Sometimes I couldn't even do that, I'm too lazy,lol... But, I decided to write up to stay focused.
 
 Let's begin!
 

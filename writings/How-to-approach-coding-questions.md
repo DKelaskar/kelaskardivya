@@ -2,8 +2,8 @@
 title: "How to approach coding questions ?"
 date: "2020-06-02"
 og:
-  description: "The title says it."
-  image: ""
+  description: "Today I will be sharing some hints to solve coding questions efficiently."
+  image: "https://i.ibb.co/x5VZmpb/how-to-sove-coding-question.jpg"
 author:
   twitter: "theavidcoder"
   name: "Divya Kelaskar"

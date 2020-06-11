@@ -13,13 +13,12 @@ function formatDate(date) {
   return today.toLocaleDateString("en-US", options);
 }
 
-function Homepage({ writings }) {
+function Homepage({ writings, og }) {
   return (
     <>
       <Layout isHomepage>
         <Row>
-          {writings.map(({ document, slug }) => {
-            const { data: { title, date } } = document
+          {writings.map(({ document, slug }) => { const {data: { title, date, og: { image }, },} = document
 
             return (
               <Col md={6} key={slug}>
@@ -28,6 +27,21 @@ function Homepage({ writings }) {
                     <Col md={12}>
                       <div className="writing-date">{formatDate(date)}</div>
                     </Col>
+
+                    {image && (
+                      <Col md={12}>
+                        <Link href="/writings/[slug]" as={`/writings/${slug}`}>
+                          <a>
+                            <img
+                              className="nice writings"
+                              src={image}
+                              alt={title}
+                              loading="lazy"
+                            />
+                          </a>
+                        </Link>
+                      </Col>
+                    )}
 
                     <Col md={12}>
                       <Link href="/writings/[slug]" as={`/writings/${slug}`}>
@@ -46,6 +60,7 @@ function Homepage({ writings }) {
     </>
   )
 }
+
 
 Homepage.getInitialProps = async(context) => {
   const writings = (context => {

@@ -150,6 +150,11 @@ h1, h2, h3, h4, h5, h6 {
   transition: transform 0.3s;
 }
 
+.writing-row a:hover:before {
+  transform-origin: top right;
+  transform: scaleX(1);
+}
+
 .writing-row a:hover:after {
   transform-origin: bottom left;
   transform: scaleX(1);
@@ -241,6 +246,41 @@ hr {
   text-decoration: none;
   border-bottom: 1px var(--heading-color) dashed;
 }
+
+img.writings {
+  margin: 15px 0px;
+}
+
+.writing-container img,
+img.nice {
+  width: 100%;
+  border-radius: 13px;
+  -webkit-border-radius: 13px;
+  -moz-border-radius: 13px;
+  -ms-border-radius: 13px;
+  -o-border-radius: 13px;
+  translate: scale(1);
+  -webkit-transform: scale(1);
+  -moz-transform: scale(1);
+  -ms-transform: scale(1);
+  -o-transform: scale(1);
+  transition: all 0.6s;
+  -webkit-transition: all 0.6s;
+  -moz-transition: all 0.6s;
+  -ms-transition: all 0.6s;
+  -o-transition: all 0.6s;
+}
+
+.writing-container img:hover,
+img.nice:hover {
+  translate: scale(1);
+  -webkit-transform: scale(1);
+  -moz-transform: scale(1);
+  -ms-transform: scale(1);
+  -o-transform: scale(1);
+  /*box-shadow: 3px 3px 20px var(--highlight-color);*/
+}
+
 
 .back-button {
   color: var(--secondary-color);
