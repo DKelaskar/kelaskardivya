@@ -29,9 +29,7 @@ function Writing({ content, data }) {
           <h1 className="writing-title-h1">{title}</h1>
 
           <div className="author">
-            <a href={`https://twitter.com/${author.twitter}`} target="_blank" rel="noopener noreferrer nofollow">
               <img src={avatar} alt="Avatar"/> {author.name}
-            </a>
           </div>
 
           <div className="writing-container">
