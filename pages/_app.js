@@ -18,7 +18,18 @@ function MyApp({ Component, pageProps }) {
         <meta name="twitter:site" content="@theavidcoder" />
         <meta name="twitter:creator" content="@theavidcoder" />
 
+        <meta name="google-site-verification" content="1z5bHn5TeTE0rr1e_hYHY19QEIqiYNuGw63VZurNolY" />
+
         <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+        <script async src="https://www.googletagmanager.com/gtag/js?id=UA-168668028-1"></script>
+
+        <script>
+         window.dataLayer = window.dataLayer || [];
+         function gtag(){dataLayer.push(arguments);}
+         gtag('js', new Date());
+         gtag('config', 'UA-168668028-1');
+        </script>
 
         <title>{title || `Divya, learns & codes`}</title>
       </Head>
