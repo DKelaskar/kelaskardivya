@@ -3,7 +3,7 @@ title: "Rebuilding the my portfolio site, here's how it went"
 date: "2020-06-27"
 og:
   description: "Today we'll be making turtles' race by the Python language.."
-  image: "https://i.ibb.co/dDs1RRS/Rebuilding-the-my-portfolio-site-here-s-how-it-went.jpg"
+  image: "https://i.ibb.co/tbVvGjY/Rebuilding-the-my-portfolio-site-here-s-how-it-went.jpg"
 author:
   twitter: "theavidcoder"
   name: "Divya Kelaskar"
